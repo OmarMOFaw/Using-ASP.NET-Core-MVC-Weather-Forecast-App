@@ -1,0 +1,114 @@
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.deps.json
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.runtimeconfig.json
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.runtimeconfig.dev.json
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.dll
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.Views.dll
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.Views.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csprojAssemblyReference.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.CoreCompileInputs.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorAssemblyInfo.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorAssemblyInfo.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.AssemblyInfoInputs.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.AssemblyInfo.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.TagHelpers.input.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.TagHelpers.output.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorCoreGenerate.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorTargetAssemblyInfo.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorTargetAssemblyInfo.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.Views.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.dll
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.CopyComplete
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.deps.json
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.runtimeconfig.json
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.runtimeconfig.dev.json
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.dll
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.Views.dll
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.Views.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.CoreCompileInputs.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorAssemblyInfo.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorAssemblyInfo.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.AssemblyInfoInputs.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.AssemblyInfo.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.TagHelpers.input.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.TagHelpers.output.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorCoreGenerate.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorTargetAssemblyInfo.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorTargetAssemblyInfo.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.Views.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.dll
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.pdb
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.CopyComplete
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\ForecastApp\SearchCity.g.cshtml.cs
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csprojAssemblyReference.cache
+D:\Proyectos - Aprendizaje\Trabajos Proyectos\ForecastApp-Docker\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\ForecastApp\City.g.cshtml.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\web.config
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\web.config
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\appsettings.Development.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\appsettings.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\ForecastApp.deps.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\ForecastApp.runtimeconfig.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\appsettings.Development.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\appsettings.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\ForecastApp.deps.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\ForecastApp.runtimeconfig.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\wwwroot\lib\bootstrap\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\wwwroot\lib\jquery-validation-unobtrusive\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\wwwroot\lib\jquery-validation\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\publish\wwwroot\lib\jquery\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation-unobtrusive\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery\.bower.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.deps.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.runtimeconfig.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.runtimeconfig.dev.json
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.dll
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.pdb
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.Views.dll
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\bin\Debug\netcoreapp2.1\ForecastApp.Views.pdb
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.AssemblyReference.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.AssemblyInfoInputs.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.AssemblyInfo.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.CoreCompileInputs.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorAssemblyInfo.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorAssemblyInfo.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.TagHelpers.input.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.TagHelpers.output.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorCoreGenerate.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\ForecastApp\City.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\ForecastApp\SearchCity.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorTargetAssemblyInfo.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.RazorTargetAssemblyInfo.cs
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.Views.pdb
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.dll
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.pdb
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.genruntimeconfig.cache
+C:\Users\FAW\Downloads\Compressed\ForecastApp-master\ForecastApp-master\src\ForecastApp\obj\Debug\netcoreapp2.1\ForecastApp.csproj.CopyComplete
